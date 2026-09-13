@@ -1,7 +1,7 @@
 # NYC Historical Voter Turnout (Council Districts) - Three Data Questions
 
 ## Why I Chose This Dataset
-I chose the NYC Open Data Historical Voter Turnout dataset because it's real, local (NYC),
+I chose the NYC Open Data Historical Voter Turnout dataset because I'm interested in the topic as a politics major, on top of being real, local (NYC),
 and directly relevant to civic life: each row represents the voter turnout for one
 geographic area in one election, and the columns describe how many people voted, didn't
 vote, or weren't eligible, along with the resulting turnout rate.
