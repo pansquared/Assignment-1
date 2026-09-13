@@ -1,6 +1,4 @@
 #pandas approach:
-#https://codesignal.com/learn/courses/basics-of-numpy-and-pandas-with-titanic-dataset/lessons/mastering-pandas-a-deep-dive-into-dataframes-and-data-manipulation
-#https://medium.com/data-science/olympics-kaggle-dataset-exploratory-analysis-part-2-understanding-sports-4b8d73a8ec30
 import pandas as pd
 
 # NOTE ON CLEANING:
