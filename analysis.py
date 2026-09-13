@@ -1,6 +1,7 @@
 #pandas approach:
 import pandas as pd
 
+#https://data.cityofnewyork.us/City-Government/Historical-Voter-Turnout/rixx-fc37/data_preview
 # NOTE ON CLEANING:
 # The original CSV from NYC Open Data had about 47,000 rows, mostly at the very
 # granular "Election District" level. I filtered it down to just the rows where
